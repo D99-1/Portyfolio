@@ -1,0 +1,38 @@
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}*/
+
+.header{
+    background-color: rgba(98, 140, 255, 0.39);
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    background-color: burlywood;
+    display: flexbox;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+display: flex;
+flex-direction: column-reverse;
+justify-content: flex-start;
+
+
+}
+
+p,h2{
+
+text-align: left;
+
+}
